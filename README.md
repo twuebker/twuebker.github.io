@@ -1,2 +1,3 @@
-# Run: 
+# Run:
+
 - docker compose up
