@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Theo! My research focuses on next-generation databases featuring operators like filtered vector search and GPU acceleration. I am advised by [Yannis Chronis](https://chronis.inf.ethz.ch). I am pursuing a <a href="https://db.cs.cmu.edu/tour2019/#:~:text=Andy%20lives%20a%20database%2Dcentric%20lifestyle,conduct%20database%20research">database-centric lifestyle</a>.
+Hi, I'm Theo! I'm a PhD student in the Systems Group at ETH Zürich, advised by [Yannis Chronis](https://chronis.inf.ethz.ch). My research brings classic database techniques to emerging problems like filtered vector search and GPU data processing. Currently, I am working on a TPC-H-style benchmark for filtered vector search. I am pursuing a <a href="https://db.cs.cmu.edu/tour2019/#:~:text=Andy%20lives%20a%20database%2Dcentric%20lifestyle,conduct%20database%20research">database-centric lifestyle</a>.
 
 You can reach me at <a class="link-style" href="mailto:hc.zhte.fni@rekbeuw.rodoeht">hc.zhte.fni@rekbeuw.rodoeht</a> (copying won't work well).
 
-Previously, I've worked on efficient Range Search in vector databases at Leibniz University Hannover, Germany, advised by [Jan Rellermeyer](https://www.ise.uni-hannover.de/vss/team/rellermeyer), and on agent-based systems for simulations at The University of Osaka in Japan, advised by [Chuan Xiao](https://sites.google.com/site/chuanxiao1983/). Before that, I worked on generic stream processing systems during my undergraduate in Osnabrück, Germany.
+Previously, I worked on efficient vector range search at Leibniz University Hannover, Germany, advised by [Jan Rellermeyer](https://www.ise.uni-hannover.de/vss/team/rellermeyer), and on LLM-agent systems for social simulations at The University of Osaka in Japan, advised by [Chuan Xiao](https://sites.google.com/site/chuanxiao1983/). Before that, I spent six years as a part-time software engineer at [INSIDE M2M](https://www.inside-m2m.de/), working on data processing backends for the IoT, where I also wrote my bachelor's thesis on generic SQL stream processing.
